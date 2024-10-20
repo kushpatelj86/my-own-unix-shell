@@ -12,3 +12,8 @@ This is a Unix shell, I have created for my CPSC 351 Operating Systems class, it
 (6) can fork/exec one command WITH command line redirection:  
 
 (7) can fork/exec two programs with pipes between them, (A | B) 
+ 
+
+
+To run it you have to write the command "gcc shell.c -lreadline
+./a.out"
